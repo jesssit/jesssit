@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm cuurently working on learning C# in Unity
+## I'm currently working on learning C# in Unity
 
 <!--
 **jesssit/jesssit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
